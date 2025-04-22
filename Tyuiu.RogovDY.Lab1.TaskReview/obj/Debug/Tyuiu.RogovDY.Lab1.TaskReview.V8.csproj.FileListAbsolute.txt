@@ -1,0 +1,10 @@
+D:\Dimka\C# code\designing-app_lab1-main\Tyuiu.MenshchikovaDA.Lab1.TaskReview\bin\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.exe.config
+D:\Dimka\C# code\designing-app_lab1-main\Tyuiu.MenshchikovaDA.Lab1.TaskReview\bin\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.exe
+D:\Dimka\C# code\designing-app_lab1-main\Tyuiu.MenshchikovaDA.Lab1.TaskReview\bin\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.pdb
+D:\Dimka\C# code\designing-app_lab1-main\Tyuiu.MenshchikovaDA.Lab1.TaskReview\bin\Debug\Tyuiu.MenshchikovaDA.Lab1.Review.V6.Lib.dll
+D:\Dimka\C# code\designing-app_lab1-main\Tyuiu.MenshchikovaDA.Lab1.TaskReview\bin\Debug\Tyuiu.MenshchikovaDA.Lab1.Review.V6.Lib.pdb
+D:\Dimka\C# code\designing-app_lab1-main\Tyuiu.MenshchikovaDA.Lab1.TaskReview\obj\Debug\Tyuiu.RogovDY.Lab1.TaskReview.V8.csproj.AssemblyReference.cache
+D:\Dimka\C# code\designing-app_lab1-main\Tyuiu.MenshchikovaDA.Lab1.TaskReview\obj\Debug\Tyuiu.RogovDY.Lab1.TaskReview.V8.csproj.CoreCompileInputs.cache
+D:\Dimka\C# code\designing-app_lab1-main\Tyuiu.MenshchikovaDA.Lab1.TaskReview\obj\Debug\Tyuiu.Ro.D982AB3A.Up2Date
+D:\Dimka\C# code\designing-app_lab1-main\Tyuiu.MenshchikovaDA.Lab1.TaskReview\obj\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.exe
+D:\Dimka\C# code\designing-app_lab1-main\Tyuiu.MenshchikovaDA.Lab1.TaskReview\obj\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.pdb
