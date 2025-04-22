@@ -10,14 +10,14 @@ namespace Tyuiu.RogovDY.Lab1.Review.V8.Test
         [TestMethod]
         public void CheckCalc()
         {
-            double x = 0.9;
-            double y = 0.6;
+            double x = 3;
+            double y = 7;
 
             DataService ds = new DataService();
 
             double result = ds.Calc(x, y);
 
-            double true_val = 0.762;
+            double true_val = -0.222;
 
             Assert.AreEqual(true_val, result);
         }
